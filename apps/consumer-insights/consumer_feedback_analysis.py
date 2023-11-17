@@ -1,6 +1,6 @@
 # consumer_feedback_analysis.py
 # Script for analyzing consumer feedback and market reports in AI-Market-Research-and-Sustainability-Analytics
-
+#testing
 
 # For the AI-Market-Research-and-Sustainability-Analytics project, we can create a fictitious Python script focused on analyzing consumer feedback and market reports. This script, possibly named consumer_feedback_analysis.py, will be dedicated to processing, understanding, and extracting valuable insights from various forms of consumer feedback and textual market reports. This file would fit well within the consumer-insights module of the project.
 
